@@ -35,7 +35,7 @@ canvas.drawLine(0, 40, mWidth, 40, p);
 
 ---
 
-详见我的CSDN博客：[使用SVG路径图制作线追踪特效](http://blog.csdn.net/qq_27258799/article/details/54095831#svg路径)
+详见我的CSDN博客：[使用SVG路径图制作线追踪特效](http://blog.csdn.net/qq_27258799/article/details/54095831#svg%E8%B7%AF%E5%BE%84)
 
 
 
